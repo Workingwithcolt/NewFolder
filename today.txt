@@ -7,3 +7,8 @@ Learning Today
 6 after creating the branch how to we make the pull request 
 7 how to we merge and delete the branch 
 
+
+branch = 
+Main Branch ------------------- master branch
+A Branch --reviewed by someone ----
+B Branch
