@@ -1,0 +1,9 @@
+Learning Today
+1 how to we sync the visual Studio Code with Github
+2 How to we create the repo with the visual Studio Code
+3 how to we commit the code 
+4 what is the branch branches 
+5 how to we create the branch with VS and github
+6 after creating the branch how to we make the pull request 
+7 how to we merge and delete the branch 
+
