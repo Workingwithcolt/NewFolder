@@ -2,8 +2,7 @@ const add = (a,b)=>{
     return a+b
 }
 add(5,4);
-
-const sub = (a,b) =>{
+const Substract = (a,b) =>{
     return a-b;
 }
-sub(a,b);
+Substract(5,4);
